@@ -4,7 +4,7 @@ inspired by https://github.com/MkdmOmar/Mathematical-Symbol-Recognition
 
 The original purpose of mathematical symbol recognition is the basis for mathematical equation&fomular recognition.
 
-Requirement
+### Requirements
  * Python 3.X
  * Tensoflow-GPU
  * Numpy
@@ -12,5 +12,5 @@ Requirement
 
 This Learning Algorithm involve Basic Mathematical Symbol 
 
-Data source
+### Data source
 * https://www.kaggle.com/cyruseption/mathematical-symbol-recognition-using-svm
