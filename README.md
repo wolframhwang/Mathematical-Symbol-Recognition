@@ -11,3 +11,6 @@ Requirement
  * Pandas
 
 This Learning Algorithm involve Basic Mathematical Symbol 
+
+Data source
+* https://www.kaggle.com/cyruseption/mathematical-symbol-recognition-using-svm
