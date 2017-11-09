@@ -25,7 +25,7 @@ when input mathematical symbol or equation, we have experience Uncomfortable.
 
  
 
-because, we input special symbol in speical way each symbol.
+because, we input to computer special symbol in speical way each symbol.
 
  
 
