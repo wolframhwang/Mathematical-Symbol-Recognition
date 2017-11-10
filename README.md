@@ -1,6 +1,6 @@
 # Mathematical-Symbol-Recognition
 
-inspired by https://github.com/MkdmOmar/Mathematical-Symbol-Recognition
+inspired by https://github.com/xyjiang94/EquationRecognition
 
 The original purpose of mathematical symbol recognition is the basis for mathematical equation&fomular recognition.
 
@@ -17,16 +17,9 @@ This Learning Algorithm involve Basic Mathematical Symbol
 
 ### Purpose
 
-Generally korean Keyboard Do not have Mathematical Symbol button(=key).
-
- 
-
-when input mathematical symbol or equation, we have experience Uncomfortable.
-
- 
-
-because, we input to computer special symbol in speical way each symbol.
-
- 
-
-if Handwritten Recognition Exsist, we more simply approach this topic 
+We often need to check the graph about problem while doing Homework
+it would be a good idea to get help from computer to make the graph verification a little simpler.
+There is a good place to provide mathematical convenience, like Wolframalpha. 
+However, in order to enter a formula here, various special symbols need to be analyzed one by one.
+This is a very annoying thing. 
+But what if computer recognize mathematical symbol that Handwritten? This will be very grace and interesting.
